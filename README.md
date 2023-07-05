@@ -1,5 +1,5 @@
 # Virtual Population - CARTmath
-Virtual population (VP) build in the work Barros et al. (2021) relating to the CAR-T cell immunotherapy model to immunodeficient mice. Each line in the file virtual_population.txt corresponds to a set of model parameters that describe a virtual mouse. 
+Virtual population (VP) built in Barros et al. (2021) relating to the CAR-T cell immunotherapy model to immunodeficient mice. Each line in the file *virtual_population.txt* corresponds to a set of model parameters that describes a virtual mouse. 
 This population is composed of 5000 virtual mice.
 <br />
 <br />
