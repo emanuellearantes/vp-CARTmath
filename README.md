@@ -3,7 +3,6 @@ Virtual population (VP) build in the work Barros et al. (2021) relating to the C
 This population is composed of 5000 virtual mice.
 <br />
 <br />
-<br />
 
 **Reference**:<br />
 Barros, L.R.C.; Paixão, E.A.; Valli, A.M.P.; Naozuka, G.T.; Fassoni, A.C.; Almeida, R.C. CAR**T***math*—A Mathematical Model of CAR-T Immunotherapy in Preclinical Studies of Hematological Cancers. Cancers 2021, 13, 2941. https://doi.org/10.3390/cancers13122941
